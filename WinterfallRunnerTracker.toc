@@ -1,0 +1,11 @@
+## Interface: 11508
+## IconTexture: Interface/Addons/WinterfallRunnerTracker/art/wrt-Small
+## Title: Winterfall Runner Tracker
+## Notes: Tracks Winterfall Runner respawn cycles from spawn time.
+## Author: Zanzo (Ronowar-Dreamscythe)
+## Version: 1.0.0
+## Category: Respawn Timers
+
+## SavedVariables: WFRTrackerDB
+
+WinterfallRunnerTracker.lua
